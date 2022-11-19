@@ -4,7 +4,7 @@
 
 
 
-Ball::Ball(const glm::vec2 position, const glm::vec2 velocity = { 0, 0 }) {
+Ball::Ball(const glm::vec2 position, const glm::vec2 velocity) {
 	this->position = position;
 	this->velocity = velocity;
 }

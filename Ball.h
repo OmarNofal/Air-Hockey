@@ -5,7 +5,6 @@
 
 
 static const Color ballColor = {0.3f, 0.2f, 0.6f};
-static const float ballRadius = 20.0f;
 
 class Ball {
 
